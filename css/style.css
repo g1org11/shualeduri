@@ -10,10 +10,88 @@ header{
     max-width: 1500px;
     width: 100%;
     margin: 0 auto;
-    height: 70px;
+    height: 100px;
     padding: 20px 15px;
-    border-bottom: 1px solid #111111;
+    border-bottom: 1px solid #464242;
 }
+.leftside{
+    display: flex;
+}
+.nav-form{
+    display: flex;
+    margin-left: 50px;
+}
+.nav-form input{ 
+    width: 400px;
+    height: 40px;
+}
+
+.search-input{
+    
+    margin-right: 10px;
+
+}
+.search-input::placeholder{
+    font-size: 14px;
+    line-height: 19px;
+   
+}
+.nav-form img{
+    margin-top: 5px;
+}
+.search-img{
+    width: 24px;
+    height: 24px
+    
+     
+}
+.sidebar-button{
+    width: 60px;
+    height: 40px;
+    
+}
+.rightside{
+    display: flex;
+}
+.upload{
+    padding: 20px 30px;
+    font-size: 14px;
+    line-height: 19px;
+    margin-left: 30px;
+}
+.upload:hover{
+    color: white;
+    background-color: #FF2288;
+    border-radius: 12px;
+}
+.secondpage{
+    width: 56px;
+   height: 56px;
+   margin-left: 30px;
+}
+.ball{
+    width: 24px;
+    height: 24px;
+    margin-left: 30px;
+    margin-top: 20PX;
+}
+.massage{
+    width: 24px;
+    height: 24px;
+    margin-left: 30px;
+    margin-top: 20PX;
+}
+.navbar-r-p{
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 20PX;
+}
+.navbar-r-p:hover{
+    color: #FF2288;
+}
+
+
+
 
 .side-title{
     color: white;
@@ -64,8 +142,17 @@ header{
 
 .sidebar-bottom-li{
     display: flex;
-    margin-left: 20px;
+    width: 250px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 10px;
+   
 }
+.sidebar-bottom-li:hover{
+ background-color: #FF2288;
+    border-radius: 12px;
+}
+
 .sidebar-bottom-img{
     width: 44px;
     height: 44px; 
