@@ -6,6 +6,15 @@
     text-decoration: none;
 
 }
+h5,h6{
+    font-family: 'Fredoka';
+}
+p{
+    font-family: 'Nunito';
+}
+li{
+    font-family:  'Open Sans';
+}
 header{
     max-width: 1500px;
     width: 100%;
