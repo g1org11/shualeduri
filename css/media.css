@@ -1,0 +1,268 @@
+@media(max-width: 1230px) {
+    .offers-ul{
+        display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    }
+    .designes-ul{
+        display: grid;
+        grid-template-columns:1fr 1fr 1fr  1fr;
+
+    }
+    .designes-li{
+        margin-top: 20px;
+    }
+
+}
+@media (max-width:1024px){
+    .main-nav-ul{
+        margin-left: -40px;
+       
+    }
+    .nav-form input{
+        width: 200px;
+    }
+    .main-nav-ul{
+        margin-left: -20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+    .designes-li{
+        width: 200px;
+        
+    }
+}
+@media (max-width: 992px){
+    header{
+        max-width: 1500px;
+        width: 100%;
+        margin: 0 auto;
+        height: 150px;
+        padding: 20px 15px;
+        border-bottom: 1px solid #464242;
+       
+    }
+    .main-nav-ul{
+        margin-left: -20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .sidebar-img{
+        width:50px;
+    height: 50px;
+       margin-right: 15px;
+       margin-bottom: 30px;
+      
+    }
+    .sidebar-p{
+        font-size: 22px;
+    line-height: 24px;
+    margin-top: 15px;
+    }
+    .follow{
+        font-size: 22px;
+    line-height: 24px;
+    }
+    .sidebar-bottom-img{
+        width:55px;
+        height: 55px; 
+        margin-right: 20px;
+        margin-bottom:20px ;
+    
+    }
+    .sidebar-last-title{
+        font-size: 22px;
+    line-height: 24px;
+    }
+    .sidebar-bottom-p{
+        font-size: 20px;
+        line-height: 21px;
+    }
+    .nav-form input{
+        width: 400px;
+    }
+    .navbar-r-p{
+        font-size: 22px;
+    line-height: 24px;
+    margin-top: 30px;
+    }
+    .massage,.ball{
+        width: 50px;
+        height: 50px;
+    }
+    .secondpage img{
+        margin-top: 15px;
+    }
+    .upload{
+        font-size: 22px;
+        line-height: 24px;
+        margin-top: 10px;
+    }
+    .filter img{
+        margin-left: -100px;
+    }
+    .offers-ul{
+        display: grid;
+    grid-template-columns:1fr 1fr  ;
+    }
+    .main-nav-ul li{
+        margin-right:20px ;
+        font-size: 20px;
+        line-height: 21px;
+        
+    }
+    .offers-ul li{
+        width: 370px;
+    }
+    .offers-li img{
+        width: 370px;
+    }
+    .offers-li p{
+        width: 370px;
+    font-size: 22px;
+    line-height: 24px;
+    }
+    .load-more p{
+        font-size: 18px;
+        line-height: 21px;
+        padding: 20px 100px;
+    }
+    .designes-ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .designes-li{
+        width: 200px;
+        height: 260px;
+        margin-top: 20px;
+    }
+    .designes-li img{
+        width: 150px;
+        height: 132px;
+    }
+    .designes-li h5{
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .city{
+       font-size: 15px
+    }
+    .following{
+        
+        color: black;
+        margin: 0;
+        padding: 15px 35px;
+    }
+    .footer-section{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .footer-title{
+        font-size: 19px;
+        line-height: 21px;
+       
+    }
+    .footer-ul li {
+        font-size: 20px;
+        line-height: 40px;
+        color: #222222;
+       
+    }
+    .icons img{
+        width: 35px;
+        height: 35px;
+        margin-right: 20px;
+       
+    }
+.footrt-text p{
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: -500px;
+}
+
+            
+
+
+}
+@media (max-width: 768px){
+    
+    header{
+        max-width: 1500px;
+        width: 100%;
+        margin: 0 auto;
+        height: 200px;
+        padding: 20px 15px;
+        border-bottom: 1px solid #464242;
+       
+    }
+    .btn{
+        width: 70px;
+        height: 50px;
+    }
+    .btn img{
+        width: 40px;
+        margin-top: 10px;
+    }
+    .nav-form input{
+        width: 350px;
+        height: 50px;
+    }
+    .nav-form img{
+        width: 70px;
+        height: 50px;
+    }
+    .navbar-r-p{
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .massage,.ball{
+        width: 70px;
+        height: 50px;
+    }
+    .secondpage img{
+        width: 70px;
+        height: 50px;
+        margin-top: 20px;
+    }
+    .upload{
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .main-nav-ul li{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    
+
+    .filter img{
+        margin-left: -200px;
+        width: 70px;
+        height: 50px;
+    }
+    .filter p{
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .main-nav-ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+    }
+    .offers-ul li{
+        width: 300px;
+    }
+    .offers-li img{
+        width: 300px;
+    }
+    .offers-li p{
+        width: 300px;
+    font-size: 20px;
+    line-height: 22px;
+    }
+    .load-more p{
+        font-size: 20px;
+        line-height: 21px;
+        padding: 20px 100px;
+    }
+
+   
+
+}
