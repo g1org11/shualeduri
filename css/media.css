@@ -81,24 +81,29 @@
         width: 400px;
     }
     .navbar-r-p{
-        font-size: 22px;
+        font-size: 18px;
     line-height: 24px;
     margin-top: 30px;
     }
     .massage,.ball{
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
     }
     .secondpage img{
         margin-top: 15px;
     }
     .upload{
-        font-size: 22px;
+        font-size: 18px;
         line-height: 24px;
         margin-top: 10px;
     }
     .filter img{
-        margin-left: -100px;
+        width: 40px;
+        height: 40px;
+    }
+    .filter p{
+        font-size: 18px;
+        line-height: 24px;
     }
     .offers-ul{
         display: grid;
@@ -127,6 +132,7 @@
         padding: 20px 100px;
     }
     .designes-ul{
+       
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
@@ -176,7 +182,7 @@
 .footrt-text p{
     font-size: 20px;
     line-height: 40px;
-    margin-left: -500px;
+   
 }
 
             
@@ -189,7 +195,7 @@
         max-width: 1500px;
         width: 100%;
         margin: 0 auto;
-        height: 200px;
+        height: 170px;
         padding: 20px 15px;
         border-bottom: 1px solid #464242;
        
@@ -211,40 +217,36 @@
         height: 50px;
     }
     .navbar-r-p{
-        font-size: 25px;
+        font-size: 18px;
         line-height: 40px;
     }
     .massage,.ball{
-        width: 70px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
+        margin-top: 30px;
     }
     .secondpage img{
-        width: 70px;
+        width: 50px;
         height: 50px;
-        margin-top: 20px;
+        margin-top: 25px;
     }
     .upload{
-        font-size: 25px;
-        line-height: 40px;
-    }
-    .main-nav-ul li{
-        font-size: 22px;
-        line-height: 40px;
+        font-size: 18px;
+        line-height: 35px;
     }
     
+    
 
-    .filter img{
-        margin-left: -200px;
-        width: 70px;
-        height: 50px;
+    .filter {
+       
+       display: none;
     }
     .filter p{
         font-size: 22px;
         line-height: 40px;
     }
     .main-nav-ul{
-        display: grid;
-        grid-template-columns: 1fr 1fr ;
+       display: none;
     }
     .offers-ul li{
         width: 300px;
@@ -261,6 +263,10 @@
         font-size: 20px;
         line-height: 21px;
         padding: 20px 100px;
+    }
+    .footer-ul li {
+        font-size: 18px;
+        line-height: 30px;
     }
 
    

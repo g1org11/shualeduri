@@ -202,6 +202,8 @@ height: 24px;
 }
 table{
     width: 1200px;
+    width: 100%;
+    margin: 0 auto;
 }
 th{
     text-align: left;
