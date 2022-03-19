@@ -128,3 +128,14 @@
 
 
 }
+@media (max-width: 500px){
+    .nav-form input{
+        width: 200px;
+    }
+    
+    
+    .footer-ul li {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
